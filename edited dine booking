@@ -1,0 +1,48 @@
+<html>
+<head>
+<body>
+<center>
+<h1>DINE BOOKING</h1>
+<table>
+<label>
+<tr>
+<td>visitor name:</td> <td><input type="text"></tr></td>
+</label>
+<label><tr>
+<td>Number of members:</td> <td><input type="text"><br></td>
+</label>
+<label><tr>
+<td>contact no:</td> <td><input type="text"><br></td>
+</label>
+<label><tr>
+<td>Email:</td> <td><input type="text"><br></td>
+</label>
+<label><tr> <td>type of food:</td> <td><input type="checkbox" value="north indian" checked> north indian</label>
+<label> <input type="checkbox" value="north indian"> south indian</label>
+<label> <input type="checkbox" value="north indian"> chinese</label>
+<label> <input type="checkbox" value="north indian"> westren</label>
+<br>
+<br>
+</td>
+<label><tr> <td>Room status:</td> <td><input type="radio" value="room" checked>Ac</label>
+<label> <input type="radio" value="room"> non Ac</label>
+<br></br>
+</td>
+<label><tr> <td>venue reference:<td><select>
+<option value="text">select</option>
+<option value="text">Arena</option>
+<option value="text">Fiesta</option>
+<option value="text">vista</option>
+<option value="text">mythri</option>
+<option value="text">magna</option>
+<option value="text">oasis</option>
+</select>
+</td>
+<br>
+<br><br><br><br>
+<label><tr> <td><input type="submit" value="Book"></label></td>
+<label> <td><input type="submit" value="RESET"></label>
+</td>
+</center>
+</body>
+</html>
